@@ -12,10 +12,10 @@
     <property name="user.timezone" value="Asia/Saigon"/>
     <property name="os.name" value="Windows 11"/>
     <property name="java.vm.specification.version" value="17"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\LinhDTT\AppData\Local\Temp\surefire18290059503587099507\surefirebooter-20230626152809917_3.jar C:\Users\LinhDTT\AppData\Local\Temp\surefire18290059503587099507 2023-06-26T15-28-09_678-jvmRun1 surefire-20230626152809917_1tmp surefire_0-20230626152809917_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\LinhDTT\AppData\Local\Temp\surefire9728559422167080070\surefirebooter-20230629151053464_3.jar C:\Users\LinhDTT\AppData\Local\Temp\surefire9728559422167080070 2023-06-29T15-10-53_330-jvmRun1 surefire-20230629151053464_1tmp surefire_0-20230629151053464_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Backup\SWT301\code\math-util-mvn\target\test-classes;D:\Backup\SWT301\code\math-util-mvn\target\classes;C:\Users\LinhDTT\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\12.3.0.jre17-preview\mssql-jdbc-12.3.0.jre17-preview.jar;C:\Users\LinhDTT\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\LinhDTT\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\LinhDTT\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\LinhDTT\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\LinhDTT\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\LinhDTT\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\LinhDTT\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\LinhDTT\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\LinhDTT\AppData\Local\Temp\surefire18290059503587099507\surefirebooter-20230626152809917_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LinhDTT\AppData\Local\Temp\surefire9728559422167080070\surefirebooter-20230629151053464_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+8-LTS-224"/>
@@ -38,8 +38,9 @@
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="file.encoding" value="Cp1252"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-13\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
     <property name="localRepository" value="C:\Users\LinhDTT\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\LinhDTT\AppData\Local\Temp\"/>
@@ -56,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="checkFactorialGivenRightAgrumentReturnsWell" classname="org.linhdtt.mathutil.core.test.MathUtilityTest" time="0.003"/>
+  <testcase name="checkFactorialGivenRightAgrumentReturnsWell" classname="org.linhdtt.mathutil.core.test.MathUtilityTest" time="0.001"/>
 </testsuite>
